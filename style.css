@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    width: auto;
+    height: 100vh;
+    background: linear-gradient(45deg, red, blue);
+}
